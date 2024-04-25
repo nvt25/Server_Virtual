@@ -1,13 +1,31 @@
 {
-    "user": [
-      { "id": "1", "name": "Nguyen Van Tuyen", "core": 100 },
-      { "id": "2", "name": "Nguyen Van A", "core": 200 }
-    ],
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-      "name": "typicode"
+  "user": [
+    {
+      "id": 1,
+      "name": "Nguyen Van Tuyen",
+      "core": "100"
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Van A",
+      "core": "200"
     }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "id": "2",
+    "name": "Nguyen Van Tuyen",
+    "core": 88888
   }
+}
