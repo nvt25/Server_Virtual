@@ -1,7 +1,7 @@
 {
-    "posts": [
-      { "id": "1", "title": "a title", "views": 100 },
-      { "id": "2", "title": "another title", "views": 200 }
+    "user": [
+      { "id": "1", "name": "Nguyen Van Tuyen", "core": 100 },
+      { "id": "2", "name": "Nguyen Van A", "core": 200 }
     ],
     "comments": [
       { "id": "1", "text": "a comment about post 1", "postId": "1" },
